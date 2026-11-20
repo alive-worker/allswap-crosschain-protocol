@@ -1,1 +1,5 @@
 
+site_name: AllSwap Cross-Chain Protocol
+docs_dir: .
+nav:
+  - Home: README.md
